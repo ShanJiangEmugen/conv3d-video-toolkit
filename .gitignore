@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+models/*.h5
+models/*.keras
+
+# Generated predictions
+predictions/
+
+# Video files
+*.avi
+*.mp4
+*.mov
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
