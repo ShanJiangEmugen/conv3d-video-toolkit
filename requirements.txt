@@ -1,0 +1,17 @@
+tensorflow>=2.3
+keras
+numpy
+pandas
+opencv-python
+ffmpeg-python
+tqdm
+scikit-learn
+matplotlib
+
+# optional
+torch
+torchvision
+
+# jupyter
+notebook
+
