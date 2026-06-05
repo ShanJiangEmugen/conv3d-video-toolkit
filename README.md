@@ -1,27 +1,7 @@
-<p align="left">
-  <h1 align="left">conv3d-video-toolkit</h1>
-
-  <p align="left">A modular 3D ConvNet toolkit for video-based behavior and action classification.</p>
-
-  <p align="left">
-    <a href="https://github.com/ShanJiangEmugen/conv3d-video-toolkit/stargazers">
-      <img src="https://img.shields.io/github/stars/ShanJiangEmugen/conv3d-video-toolkit?style=flat-square&color=gold" />
-    </a>
-    <a href="https://github.com/ShanJiangEmugen/conv3d-video-toolkit/network/members">
-      <img src="https://img.shields.io/github/forks/ShanJiangEmugen/conv3d-video-toolkit?style=flat-square" />
-    </a>
-    <a href="https://github.com/ShanJiangEmugen/conv3d-video-toolkit/issues">
-      <img src="https://img.shields.io/github/issues/ShanJiangEmugen/conv3d-video-toolkit?style=flat-square" />
-    </a>
-    <a href="https://github.com/ShanJiangEmugen/conv3d-video-toolkit/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/ShanJiangEmugen/conv3d-video-toolkit?style=flat-square" />
-    </a>
-    <br/>
-    <img src="https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square" />
-    <img src="https://img.shields.io/badge/tensorflow-2.x-orange?style=flat-square" />
-    <img src="https://img.shields.io/github/last-commit/ShanJiangEmugen/conv3d-video-toolkit?style=flat-square" />
-  </p>
-</p>
+[![Release](https://img.shields.io/github/v/release/ShanJiangEmugen/conv3d-video-toolkit?style=flat-square)](https://github.com/ShanJiangEmugen/conv3d-video-toolkit/releases/latest)
+[![License: MIT](https://img.shields.io/github/license/ShanJiangEmugen/conv3d-video-toolkit?style=flat-square)](LICENSE)
+[![Issues](https://img.shields.io/github/issues/ShanJiangEmugen/conv3d-video-toolkit?style=flat-square)](https://github.com/ShanJiangEmugen/conv3d-video-toolkit/issues)
+[![Stars](https://img.shields.io/github/stars/ShanJiangEmugen/conv3d-video-toolkit?style=flat-square)](https://github.com/ShanJiangEmugen/conv3d-video-toolkit/stargazers)
 
 
 This repository provides a complete and modular pipeline for video-based behavior / action classification using 3D Convolutional Neural Networks (Conv3D).
